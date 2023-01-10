@@ -5,7 +5,7 @@
 //Contactez moi sur ![Gmail] alexandre.hontcharouk69@gmail.com
 
 ## Réseaux sociaux
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![instagram](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg)
 ![linkedin](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg)
 
 ## Mes outils de dev
@@ -20,19 +20,19 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/vmware.svg)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 ### 👨‍💻 Languages et Frameworks
 <p align="left">
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="50px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img width="50px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" />
+<img width="50px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" />
+<img width="50px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" />
+<img width="50px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" />
 <img width="50px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="50px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
