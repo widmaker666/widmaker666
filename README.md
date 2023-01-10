@@ -20,7 +20,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/vmware.svg)
+![VSCode](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
