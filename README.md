@@ -37,7 +37,3 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </p>
-
-### 📈 Stats
-![GHstats](https://github-readme-activity-graph.cyclic.app/graph?widmaker666={widmaker666}&theme=minimal) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widmaker666&layout=compact&theme=radical)](https://github.com/widmaker666/github-readme-stats)
