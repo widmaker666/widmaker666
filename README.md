@@ -6,7 +6,7 @@
 
 ## Réseaux sociaux
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![linkedin](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg)
 
 ## Mes outils de dev
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
