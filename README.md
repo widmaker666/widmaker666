@@ -2,7 +2,7 @@
 
 <h1 align="center">Bonjour à tous 👋</h1>
 <h3 align="center">Aspirant développeur web français en Javascript / ruby / react, élève au bootcamp The Hacking Project.</h3>
-//Contactez moi sur ![Gmail] alexandre.hontcharouk69@gmail.com
+//Contactez moi sur alexandre.hontcharouk69@gmail.com
 
 ## Réseaux sociaux
 ![instagram](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg)
