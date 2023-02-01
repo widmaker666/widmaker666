@@ -1,6 +1,6 @@
 ![Header](./up.png)
 
-<h1 align="center">Salut 👋, moi Alexandre Hontcharouk</h1>
+<h1 align="center">Salut 👋, moi c'est Alexandre Hontcharouk</h1>
 <h3 align="center">Aspirant développeur web français en Javascript / ruby / react, élève au bootcamp The Hacking Project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=widmaker666&label=Profile%20views&color=0e75b6&style=flat" alt="widmaker666" /> </p>
