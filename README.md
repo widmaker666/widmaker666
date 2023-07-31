@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widmaker666" alt="widmaker666" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/widmaker666/Formation_THP_AllProject](https://github.com/widmaker666/Formation_THP_AllProject)
+- 📫 Me contacter **alexandre.hontcharouk69@gmail.com**
 
-- 📫 How to reach me **alexandre.hontcharouk69@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/Ehrrx2o79](https://resume.io/r/Ehrrx2o79)
+- 📄 En savoir plus sur moi avec mon CV en ligne : [https://alexwebdevlyon.netlify.app](https://alexwebdevlyon.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
