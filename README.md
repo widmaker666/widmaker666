@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexandre-hontcharouk-879b71b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-hontcharouk-879b71b9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexandre-hontcharouk-developpeur-web-frontend-javascript-reactjs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-hontcharouk-developpeur-web-frontend-javascript-reactjs/" height="30" width="40" /></a>
 <a href="https://instagram.com/alexandrejackcliche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandrejackcliche" height="30" width="40" /></a>
 </p>
 
