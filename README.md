@@ -1,7 +1,9 @@
 ![Header](./up.png)
 
 <h1 align="center">Salut 👋, moi c'est Alexandre Hontcharouk</h1>
-<h3 align="center">Je suis un développeur web frontend passionné par JavaScript et ses frameworks, notamment React et Next.js. Ma passion pour la résolution de problèmes et ma persévérance me poussent constamment à rechercher des solutions innovantes pour les défis techniques auxquels je suis confronté. Je sors du bootcamp THE HACKING PROJECT ce qui fait de moi une personne sait ce sortir de toute les difficultés</h3>
+<h3 align="center">Developpeur React | Redux | Next
+
+💡 Passionné par le code, je m'épanouis dans l'optimisation, la résolution de problèmes et l'adaptation. Mon expérience autodidacte me confère un avantage précieux. Je suis prêt à apprendre, à comprendre et à collaborer pour atteindre des objectifs communs. Le développement n'est pas seulement une compétence, c'est ma vocation. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=widmaker666&label=Profile%20views&color=0e75b6&style=flat" alt="widmaker666" /> </p>
 
