@@ -1,4 +1,4 @@
-![Header](./up.png)
+![Header](./up2.png)
 
 <h1 align="center">Salut 👋, moi c'est Alexandre Hontcharouk</h1>
 <h3 align="center">Developpeur React | Redux | Next
