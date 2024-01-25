@@ -3,7 +3,13 @@
 <h1 align="center">Salut 👋, moi c'est Alexandre Hontcharouk</h1>
 <h3 align="center">Developpeur React | Redux | Next
 
-💡 Passionné par le code, je m'épanouis dans l'optimisation, la résolution de problèmes et l'adaptation. Mon expérience autodidacte me confère un avantage précieux. Je suis prêt à apprendre, à comprendre et à collaborer pour atteindre des objectifs communs. Le développement n'est pas seulement une compétence, c'est ma vocation. 💻</h3>
+💡 Après ma récente reconversion vers le développement, sur Javascript/TS et ses framework comme React.js et Next.js.
+Je m'appuie sur une expérience  avec une clientèle diversifiée dans la musique, la photographie et la vente.
+
+Animé par ma passion renouvelée, je suis prêt à appliquer ces compétences fraîchement acquises pour contribuer à des projets innovants.
+
+Ma familiarité avec la gestion de la clientèle, acquise dans mes professions antérieures, s'ajoute à mon profil polyvalent.
+Ma participation continue à des événements de renom, comme LyonJS et crafter Lyon, renforce mon engagement constant dans le domaine du développement. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=widmaker666&label=Profile%20views&color=0e75b6&style=flat" alt="widmaker666" /> </p>
 
