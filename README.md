@@ -1,10 +1,10 @@
 # Hi there, I'm Alexandre Hontcharouk 👋
 
-### Fullstack JavaScript / TypeScript Developer | React & Node.js Specialist
+### Fullstack JavaScript / TypeScript Developer | AI-Augmented Developer & Orchestrator | React & Node.js
 
 I build **production-ready** web applications with a strong backend focus (business process automation, scraping, data processing) and modern React / Next.js frontends.
 
-I'm used to working in CI/CD environments (GitLab), within teams, and on B2B projects.
+As an **AI-augmented developer**, I leverage AI tools—especially **Claude**—to orchestrate complex workflows, accelerate development velocity, and write smarter, more robust code.
 
 *   📍 Based in Lyon / Villeurbanne — Open to **Remote** or **Hybrid**
 *   📫 Reach me at: **alexandre.hontcharouk69@gmail.com**
@@ -32,6 +32,10 @@ I'm used to working in CI/CD environments (GitLab), within teams, and on B2B pro
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+**AI & Orchestration:** 
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge&logo=openai&logoColor=white)
+
 **Tools & DevOps:** 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -40,26 +44,9 @@ I'm used to working in CI/CD environments (GitLab), within teams, and on B2B pro
 
 ---
 
-### 🚀 Featured Projects
-
-*Here are some of the projects I'm most proud of. Check them out!*
-
-#### 📦 [Nom de ton Projet 1]
-> *Une phrase pour décrire le projet. Ex: Outil backend d'automatisation de processus métier et de scraping de données.*
-*   **Stack:** Node.js, Express, MongoDB, AWS
-*   **Lien:** [Lien vers le repo ou le site](https://github.com/widmaker666)
-
-#### ⚛️ [Nom de ton Projet 2]
-> *Une phrase pour décrire le projet. Ex: Interface web React / Next.js connectée à une API REST.*
-*   **Stack:** Next.js, TypeScript, Tailwind CSS
-*   **Lien:** [Lien vers le repo ou le site](https://github.com/widmaker666)
-
-*(Remplace ces exemples par tes 2 ou 3 meilleurs dépôts GitHub)*
-
----
-
 ### 💼 What I'm doing today
 
+*   🤖 **AI Orchestration:** Leveraging Claude and AI tools to automate complex workflows, generate boilerplate, and boost overall development velocity.
 *   🛠️ **Backend Development:** Building and maintaining production tools.
 *   ⚙️ **Automation:** Streamlining business processes and data scraping/processing.
 *   💻 **Frontend:** Developing modern web interfaces with React / Next.js.
@@ -75,6 +62,8 @@ I'm used to working in CI/CD environments (GitLab), within teams, and on B2B pro
 
 Développeur Fullstack JavaScript / TypeScript, je conçois des applications web **en production**, avec une forte composante backend (automatisation métier, scraping, traitement de données) et des interfaces frontend en React / Next.js.
 
+En tant que **développeur augmenté par l'IA**, j'utilise des outils comme **Claude** pour orchestrer des workflows complexes, accélérer le développement et produire un code plus robuste.
+
 Habitué aux environnements CI/CD (GitLab), au travail en équipe et aux projets B2B.
 
 *   📍 Lyon / Villeurbanne — Remote ou Hybride
@@ -82,6 +71,7 @@ Habitué aux environnements CI/CD (GitLab), au travail en équipe et aux projets
 
 ### Ce que je fais aujourd'hui
 
+*   🤖 **Orchestration IA :** Utilisation de Claude et d'outils d'IA pour automatiser des workflows complexes et booster la vélocité de développement.
 *   🛠️ Développement et maintenance d'outils backend en production.
 *   ⚙️ Automatisation de processus métiers et scraping de données.
 *   💻 Développement d'interfaces web React / Next.js.
